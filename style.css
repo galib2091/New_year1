@@ -1,0 +1,48 @@
+.body {
+    font-family: 'Work Sans';
+}
+
+.header {
+    background-image: url('/images/banner/banner1.png');
+    background-size: cover;
+}
+
+.header-container {
+    padding: 216px 230px 230px 1045px;
+    text-align: right;
+}
+
+.header-title {
+    color: #151414;
+    text-align: right;
+    font-size: 65px;
+    font-weight: 700;
+    font-family: Work Sans;
+    max-width: 480px;
+    /* padding-right: 1250px; */
+    margin-bottom: 0px;
+}
+
+.header-body {
+    color: #444343;
+    text-align: right;
+    font-size: 16px;
+    font-weight: 400;
+    max-width: 480px;
+    font-family: Work Sans;
+    margin: 32px 0;
+}
+
+.button-header {
+    border: 0;
+    margin-right: 150px;
+    border-radius: 5px;
+    background: #F15B22;
+    width: 160px;
+    height: 64px;
+    color: #FFF;
+    text-align: center;
+    font-family: Work Sans;
+    font-size: 20px;
+    font-weight: 600;
+}
